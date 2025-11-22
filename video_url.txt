@@ -1,0 +1,5 @@
+Player URL:
+https://ann618484.github.io/player/?list=https://raw.githubusercontent.com/ann618484/bfd9fd05da7acb4b/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/ann618484/bfd9fd05da7acb4b/refs/heads/master/github_master.m3u8
